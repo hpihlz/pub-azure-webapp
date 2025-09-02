@@ -1,6 +1,6 @@
 # My Azure Web Application
 
-## Author: [Harald Pihlz]
+## Author: Harald Pihlz
 
 A simple static website designed to be served by nginx on Azure.
 
